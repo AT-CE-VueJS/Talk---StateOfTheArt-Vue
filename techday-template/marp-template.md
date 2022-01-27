@@ -343,7 +343,7 @@ marp: true
 -   Herramienta de testing
 -   Destaca por su velocidad
 -   Cobertura de varios tipos de test
--   Uso del entorno de desarrollo Vite
+-   Uso del entorno de desarrollo Vue
 
 ---
 
@@ -356,3 +356,7 @@ marp: true
 -   Implementación del concepto [módulos federados de webpack](https://webpack.js.org/concepts/module-federation/)
 -   Orquestación de micro-frontends (y más)
 -   Un proyecto que se compone de varios "builds" independientes entre ellos
+
+---
+
+![bg fit](./assets/techdayvue.png)
